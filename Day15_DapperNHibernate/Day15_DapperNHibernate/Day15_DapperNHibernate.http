@@ -1,0 +1,6 @@
+@Day15_DapperNHibernate_HostAddress = http://localhost:5114
+
+GET {{Day15_DapperNHibernate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

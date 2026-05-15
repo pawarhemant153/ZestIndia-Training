@@ -41,6 +41,7 @@ namespace WebApiDay13Task.Controllers
             {
                 Id = employees.Count + 1,
                 Name = dto.Name,
+
                 Department = dto.Department,
                 Salary = 30000
             };
