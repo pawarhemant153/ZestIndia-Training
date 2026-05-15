@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|d:\\zest india .net assessment project\\dotnetcoretasks\\day14-efcore_api\\day14-efcore_api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|solutionrelative:day14-efcore_api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|d:\\zest india .net assessment project\\dotnetcoretasks\\day14-efcore_api\\day14-efcore_api\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|solutionrelative:day14-efcore_api\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|d:\\zest india .net assessment project\\dotnetcoretasks\\day14-efcore_api\\day14-efcore_api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|solutionrelative:day14-efcore_api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|d:\\zest india .net assessment project\\dotnetcoretasks\\day14-efcore_api\\day14-efcore_api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|solutionrelative:day14-efcore_api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|d:\\zest india .net assessment project\\dotnetcoretasks\\day14-efcore_api\\day14-efcore_api\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|solutionrelative:day14-efcore_api\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|d:\\zest india .net assessment project\\dotnetcoretasks\\day14-efcore_api\\day14-efcore_api\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|solutionrelative:day14-efcore_api\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|d:\\zest india .net assessment project\\dotnetcoretasks\\day14-efcore_api\\day14-efcore_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|solutionrelative:day14-efcore_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|d:\\zest india .net assessment project\\dotnetcoretasks\\day14-efcore_api\\day14-efcore_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|solutionrelative:day14-efcore_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|d:\\zest india .net assessment project\\dotnetcoretasks\\day14-efcore_api\\day14-efcore_api\\day14-efcore_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|solutionrelative:day14-efcore_api\\day14-efcore_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|d:\\zest india .net assessment project\\dotnetcoretasks\\day14-efcore_api\\day14-efcore_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|solutionrelative:day14-efcore_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|d:\\zest india .net assessment project\\dotnetcoretasks\\day14-efcore_api\\day14-efcore_api\\migrations\\20260514090735_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1E7600-3085-4773-97B6-98CC5A7E8B28}|Day14-EFCore_API\\Day14-EFCore_API.csproj|solutionrelative:day14-efcore_api\\migrations\\20260514090735_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Day14-EFCore_API\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "Day14-EFCore_API\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T09:11:13.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\Program.cs",
+              "RelativeDocumentMoniker": "Day14-EFCore_API\\Program.cs",
+              "ToolTip": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\Program.cs",
+              "RelativeToolTip": "Day14-EFCore_API\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:40:56.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Day14-EFCore_API\\Models\\Department.cs",
+              "ToolTip": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\Models\\Department.cs",
+              "RelativeToolTip": "Day14-EFCore_API\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:22:07.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Day14-EFCore_API\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Day14-EFCore_API\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAADwv8EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T09:13:35.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Day14-EFCore_API\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Day14-EFCore_API\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:33:30.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Day14-EFCore_API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Day14-EFCore_API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAIwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T09:39:14.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Day14-EFCore_API\\Models\\Employee.cs",
+              "ToolTip": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\Models\\Employee.cs",
+              "RelativeToolTip": "Day14-EFCore_API\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T08:23:57.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\DTOs\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "Day14-EFCore_API\\DTOs\\DepartmentDto.cs",
+              "ToolTip": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\DTOs\\DepartmentDto.cs",
+              "RelativeToolTip": "Day14-EFCore_API\\DTOs\\DepartmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T10:39:25.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Day14-EFCore_API\\appsettings.json",
+              "ToolTip": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\appsettings.json",
+              "RelativeToolTip": "Day14-EFCore_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-14T08:37:22.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260514090735_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\Migrations\\20260514090735_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Day14-EFCore_API\\Migrations\\20260514090735_InitialCreate.cs",
+              "ToolTip": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\Migrations\\20260514090735_InitialCreate.cs",
+              "RelativeToolTip": "Day14-EFCore_API\\Migrations\\20260514090735_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T09:07:35.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Day14-EFCore_API.csproj",
+              "DocumentMoniker": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\Day14-EFCore_API.csproj",
+              "RelativeDocumentMoniker": "Day14-EFCore_API\\Day14-EFCore_API.csproj",
+              "ToolTip": "D:\\Zest India .NET Assessment project\\DotNetCoreTasks\\Day14-EFCore_API\\Day14-EFCore_API\\Day14-EFCore_API.csproj",
+              "RelativeToolTip": "Day14-EFCore_API\\Day14-EFCore_API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-14T08:17:01.213Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
