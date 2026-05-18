@@ -1,0 +1,6 @@
+@Authentication_in_.NET_HostAddress = http://localhost:5182
+
+GET {{Authentication_in_.NET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
